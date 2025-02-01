@@ -1,0 +1,12 @@
+{
+  "configuracoes": {
+    "color": "#d51515",
+    "lightIntensity": 2,
+    "backgroundColor": "rgb(138, 138, 138)",
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
+  }
+}
