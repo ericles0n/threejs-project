@@ -140,30 +140,52 @@ Adaptações dos Controles de Movimentação e Rotação
 A interação com o cubo e a câmera foi aprimorada para permitir diferentes formas de controle, tornando a navegação mais intuitiva e acessível ao usuário.
 
 Movimentação do Cubo (Setas do Teclado - Direcionais)
+
 ⬆️ (Seta para cima): Move o cubo para frente (reduzindo o valor do eixo Z).
+
 ⬇️ (Seta para baixo): Move o cubo para trás (aumentando o valor do eixo Z).
+
 ⬅️ (Seta para esquerda): Move o cubo para a esquerda (reduzindo o valor do eixo X).
+
 ➡️ (Seta para direita): Move o cubo para a direita (aumentando o valor do eixo X).
 Zoom da Câmera (+ e -)
+
 ➕ (Tecla "+"): Aproxima a câmera, simulando um zoom-in.
+
 ➖ (Tecla "-"): Afasta a câmera, simulando um zoom-out.
+
 Rotação do Cubo (Teclas Numéricas 8, 4, 5, 6)
+
 8 (Numpad): Rotaciona o cubo para frente (eixo X negativo).
+
 5 (Numpad): Rotaciona o cubo para trás (eixo X positivo).
+
 4 (Numpad): Rotaciona o cubo para a esquerda (eixo Y negativo).
+
 6 (Numpad): Rotaciona o cubo para a direita (eixo Y positivo).
+
 Rotação da Câmera (Teclas WASD)
+
 A: Rotaciona a câmera para a esquerda.
+
 D: Rotaciona a câmera para a direita.
+
 W: Eleva a câmera, permitindo visualizar o cubo de cima.
+
 S: Abaixa a câmera, permitindo visualizar o cubo de baixo.
 
 Opções do Menu:
+
 ✅ Cor do Cubo – Permite alterar a cor do cubo dinamicamente.
+
 ✅ Intensidade da Luz – Ajusta a iluminação direcional da cena.
+
 ✅ Cor do Fundo – Modifica a cor de fundo da cena para maior personalização.
+
 ✅ Posição do Cubo (X, Y, Z) – Permite modificar a posição do cubo diretamente via input numérico.
+
 ✅ Rotação do Cubo (X, Y) – Ajusta a rotação do cubo nos eixos X e Y.
+
 ✅ Rotação da Câmera (Theta e Phi) – Controla o ângulo da câmera em torno do cubo.
 
 ### 4. Possíveis Melhorias Futuras
