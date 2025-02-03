@@ -22,15 +22,7 @@ As outras três pastas foram criadas manualmente pelo desenvolvedor.
 
 A pasta .vscode/ contém configurações específicas para o Visual Studio Code. Seus arquivos principais incluem:
 
-settings.json – Configurações personalizadas do editor.
-
 launch.json – Configuração para depuração (debug) do código.
-
-tasks.json – Definição de tarefas automatizadas, como builds e scripts.
-
-extensions.json – Sugestões de extensões recomendadas para o projeto.
-
-Essa pasta é útil para personalizar o ambiente de desenvolvimento de forma otimizada.
 
 📁 config/
 
